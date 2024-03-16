@@ -1,1 +1,1 @@
-![Wireframe](/images/logo.png)
+![Wireframe](wireframe.png)
